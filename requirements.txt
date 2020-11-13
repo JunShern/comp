@@ -1,4 +1,4 @@
-tensorflow-gpu==1.7.0
+tensorflow-gpu==2.3.1
 numpy==1.14.2
 pretty-midi==0.2.8
 pypianoroll==0.1.3
